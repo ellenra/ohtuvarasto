@@ -1,2 +1,0 @@
-print("moi")
-print("moi:)")
